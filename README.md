@@ -52,3 +52,6 @@ The purpose of this analysis was to solve credit card risk by apply data prepara
 - Recall Score: 99%
 
 ![Easy Ensemble AdaBoost Classifier](https://user-images.githubusercontent.com/74155420/112786447-1f5a8c80-900b-11eb-995d-48d3011cb707.png)
+
+## Summary
+When determining which machine learning models to use, it is important to look at many differnt aspects and not just one metric. In general, we should be using the easy ensemble adaboost classifier. It has the highest balanced accuracy score of 93% and precision score of 94%. The worst model could be the undersampling with the balance accuary score of 61% and precision score of 55%
